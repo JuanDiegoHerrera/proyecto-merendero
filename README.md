@@ -39,6 +39,11 @@ A partir de esa necesidad desarrollé esta aplicación para facilitar el seguimi
 Durante el desarrollo utilicé Google AI Studio como herramienta de apoyo para acelerar la implementación, generar componentes y resolver problemas técnicos, manteniendo el diseño, las decisiones funcionales y la validación del proyecto.
 ---
 
+## Link
+https://proyecto-merendero2.vercel.app/
+
+---
+
 ## 📷 Capturas de pantalla
 
 ### Página principal
