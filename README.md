@@ -48,7 +48,7 @@ Durante el desarrollo utilicé Google AI Studio como herramienta de apoyo para a
 
 ### Perfil del usuario
 
-<img width="450" height="1600" alt="usr" src="https://github.com/user-attachments/assets/d1d8698e-42d2-407c-b83d-e53f5ee3935f" />
+<img width="500" height="1084" alt="usr" src="https://github.com/user-attachments/assets/d1d8698e-42d2-407c-b83d-e53f5ee3935f" />
 
 
 ---
