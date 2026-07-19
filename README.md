@@ -36,19 +36,19 @@ A partir de esa necesidad desarrollé esta aplicación para facilitar el seguimi
 
 ## 🤖 Desarrollo asistido por IA
 
-Durante el desarrollo utilicé Google AI Studio como herramienta de apoyo para acelerar la implementación, generar componentes y resolver problemas técnicos, manteniendo el diseño, las decisiones funcionales y la validación del proyecto.0
+Durante el desarrollo utilicé Google AI Studio como herramienta de apoyo para acelerar la implementación, generar componentes y resolver problemas técnicos, manteniendo el diseño, las decisiones funcionales y la validación del proyecto.
 ---
 
 ## 📷 Capturas de pantalla
 
 ### Página principal
 
-<img width="738" height="1600" alt="WhatsApp Image 2026-07-18 at 22 10 10" src="https://github.com/user-attachments/assets/b41c6f95-47b8-4f3a-98a1-e8d0fa6f8b9c" />
+<img width="350" height="1600" alt="WhatsApp Image 2026-07-18 at 22 10 10" src="https://github.com/user-attachments/assets/b41c6f95-47b8-4f3a-98a1-e8d0fa6f8b9c" />
 
 
 ### Perfil del usuario
 
-<img width="738" height="1600" alt="usr" src="https://github.com/user-attachments/assets/d1d8698e-42d2-407c-b83d-e53f5ee3935f" />
+<img width="350" height="1600" alt="usr" src="https://github.com/user-attachments/assets/d1d8698e-42d2-407c-b83d-e53f5ee3935f" />
 
 
 ---
@@ -56,29 +56,29 @@ Durante el desarrollo utilicé Google AI Studio como herramienta de apoyo para a
 ## Misiones de lectura
 
 
-<img width="738" height="1600" alt="3" src="https://github.com/user-attachments/assets/f36a2e6c-bede-470d-b5aa-cf68dbfc408f" />
+<img width="350" height="1600" alt="3" src="https://github.com/user-attachments/assets/f36a2e6c-bede-470d-b5aa-cf68dbfc408f" />
 
 
 
-<img width="738" height="1600" alt="4" src="https://github.com/user-attachments/assets/61ddbd64-6a86-4ab2-8749-183f5ec77edb" />
+<img width="350" height="1600" alt="4" src="https://github.com/user-attachments/assets/61ddbd64-6a86-4ab2-8749-183f5ec77edb" />
 
 ---
 ## Minijuegos Lectura
 
-<img width="738" height="1600" alt="6" src="https://github.com/user-attachments/assets/daafaa8b-55e8-4514-98b0-8ba606601f40" />
+<img width="350" height="1600" alt="6" src="https://github.com/user-attachments/assets/daafaa8b-55e8-4514-98b0-8ba606601f40" />
 
-<img width="738" height="1600" alt="7" src="https://github.com/user-attachments/assets/928d73f2-1b3b-4b74-9635-45a977cf6942" />
+<img width="350" height="1600" alt="7" src="https://github.com/user-attachments/assets/928d73f2-1b3b-4b74-9635-45a977cf6942" />
 
 <img width="1600" height="738" alt="8" src="https://github.com/user-attachments/assets/df4ea526-67ef-43ab-a40f-b9ce050edf46" />
 
 --
 ## Minijuegos Alfabetizacion
 
-<img width="738" height="1600" alt="10" src="https://github.com/user-attachments/assets/362dbb31-c7d9-4460-a8b3-b89b57175ff0" />
+<img width="350" height="1600" alt="10" src="https://github.com/user-attachments/assets/362dbb31-c7d9-4460-a8b3-b89b57175ff0" />
 
-<img width="738" height="1600" alt="11" src="https://github.com/user-attachments/assets/42e62c20-c324-4cc0-b638-6c02ae44bf6c" />
+<img width="350" height="1600" alt="11" src="https://github.com/user-attachments/assets/42e62c20-c324-4cc0-b638-6c02ae44bf6c" />
 
-<img width="738" height="1600" alt="12" src="https://github.com/user-attachments/assets/3a938fd5-2ceb-4a06-8b35-1ce2da4b0b71" />
+<img width="350" height="1600" alt="12" src="https://github.com/user-attachments/assets/3a938fd5-2ceb-4a06-8b35-1ce2da4b0b71" />
 
 --
 ## 📝 Nota
