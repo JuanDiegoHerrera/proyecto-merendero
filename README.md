@@ -69,7 +69,7 @@ Durante el desarrollo utilicé Google AI Studio como herramienta de apoyo para a
 
 <img width="450" height="976" alt="7" src="https://github.com/user-attachments/assets/928d73f2-1b3b-4b74-9635-45a977cf6942" />
 
-<img width="450" height="976" alt="8" src="https://github.com/user-attachments/assets/df4ea526-67ef-43ab-a40f-b9ce050edf46" />
+<img width="976" height="450" alt="8" src="https://github.com/user-attachments/assets/df4ea526-67ef-43ab-a40f-b9ce050edf46" />
 
 --
 ## Minijuegos Alfabetizacion
