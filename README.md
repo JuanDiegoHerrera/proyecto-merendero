@@ -43,12 +43,12 @@ Durante el desarrollo utilicé Google AI Studio como herramienta de apoyo para a
 
 ### Página principal
 
-<img width="450" height="1600" alt="WhatsApp Image 2026-07-18 at 22 10 10" src="https://github.com/user-attachments/assets/b41c6f95-47b8-4f3a-98a1-e8d0fa6f8b9c" />
+<img width="450" height="976" alt="WhatsApp Image 2026-07-18 at 22 10 10" src="https://github.com/user-attachments/assets/b41c6f95-47b8-4f3a-98a1-e8d0fa6f8b9c" />
 
 
 ### Perfil del usuario
 
-<img width="500" height="1084" alt="usr" src="https://github.com/user-attachments/assets/d1d8698e-42d2-407c-b83d-e53f5ee3935f" />
+<img width="450" height="976" alt="usr" src="https://github.com/user-attachments/assets/d1d8698e-42d2-407c-b83d-e53f5ee3935f" />
 
 
 ---
